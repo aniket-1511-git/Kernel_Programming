@@ -1,0 +1,7 @@
+1. The Makefile is used to automate the build process of the kernel.
+
+2. It defines how source code should be compiled and linked.
+
+3. It helps in building kernel modules and the entire kernel.
+
+4. the Makefile controls and simplifies the kernel build process.

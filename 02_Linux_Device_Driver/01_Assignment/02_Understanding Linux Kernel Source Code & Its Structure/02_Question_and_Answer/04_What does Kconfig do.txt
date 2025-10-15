@@ -1,0 +1,4 @@
+1. The Kconfig system handles kernel configuration options.
+2. Kconfig helps users choose what features to include or leave out.
+3. It connects options to real source files via the Makefile.
+4. It helps reduce kernel size by disabling unwanted modules.

@@ -1,0 +1,3 @@
+1. Direct edits may break the entire kernel build process. 
+2. Instead, changes should be made in subsystem Makefiles or Kconfig files. 
+3. This preserves stability and compatibility with the kernel build system.

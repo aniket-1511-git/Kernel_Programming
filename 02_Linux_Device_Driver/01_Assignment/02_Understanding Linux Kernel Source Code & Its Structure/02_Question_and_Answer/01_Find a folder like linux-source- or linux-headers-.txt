@@ -1,0 +1,18 @@
+Q1.What folders do you see inside?
+-->
+linux-headers-6.5.0-27-generic  linux-hwe-6.5-headers-6.5.0-27
+linux-headers-6.8.0-85-generic  linux-hwe-6.8-headers-6.8.0-85
+
+The following folders are present inside the linux-headers-6.5.0-27-generic directory:
+arch   crypto         fs       io_uring  Kconfig  Makefile        net      scripts   tools   virt
+block  Documentation  include  ipc       kernel   mm              rust     security  ubuntu
+certs  drivers        init     Kbuild    lib      Module.symvers  samples  sound     usr
+
+
+Q2.What folder likely contains USB driver code?
+-->
+   USB driver code is in the drivers/usb/ directory
+
+Q3.What folder has memory management code?
+-->
+   Memory management code is in the mm/ directory.   

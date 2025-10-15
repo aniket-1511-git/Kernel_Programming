@@ -1,0 +1,9 @@
+1. fs/               -->         B. Filesystem support
+
+2. mm/               -->         E. Memory allocation and paging
+
+3. drivers/net/      -->         C. Network interface drivers
+
+4. arch/x86/         -->         D. x86-specific architecture code
+
+5. init/             -->         A. Startup and boot code

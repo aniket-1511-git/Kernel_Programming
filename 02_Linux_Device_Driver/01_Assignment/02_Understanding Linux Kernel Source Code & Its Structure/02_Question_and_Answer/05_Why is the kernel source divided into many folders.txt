@@ -1,0 +1,2 @@
+1.The kernel is split into folders ( mm, fs, drivers, etc.) to keep code modular and maintainable.
+

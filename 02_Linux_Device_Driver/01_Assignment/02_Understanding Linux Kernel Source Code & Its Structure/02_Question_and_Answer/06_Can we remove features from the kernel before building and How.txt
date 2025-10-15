@@ -1,0 +1,2 @@
+Yes, 
+you can remove features before building by configuring the kernel with make menuconfig.
