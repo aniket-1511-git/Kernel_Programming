@@ -1,0 +1,2 @@
+1. In case the new kernel fails to boot, you can select an older working kernel from GRUB.
+

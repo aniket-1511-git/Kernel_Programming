@@ -1,0 +1,7 @@
+In /usr/src/ :
+
+1. linux-headers-* 
+      kernel header files
+
+2. linux-source-* 
+     full kernel source

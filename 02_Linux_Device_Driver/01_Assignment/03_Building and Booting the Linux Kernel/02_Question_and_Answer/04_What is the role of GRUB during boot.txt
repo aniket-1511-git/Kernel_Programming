@@ -1,0 +1,3 @@
+1. GRUB (GRand Unified Bootloader) loads the kernel into memory and starts the boot process.
+
+2. Lets you choose between multiple kernels or OSes.

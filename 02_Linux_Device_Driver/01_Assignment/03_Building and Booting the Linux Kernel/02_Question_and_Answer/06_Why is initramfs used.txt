@@ -1,0 +1,1 @@
+1. initramfs (initial RAM filesystem) provides temporary drivers and tools needed to mount the real root filesystem during boot.

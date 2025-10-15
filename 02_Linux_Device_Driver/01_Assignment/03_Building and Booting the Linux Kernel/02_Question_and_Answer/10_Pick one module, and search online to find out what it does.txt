@@ -1,0 +1,9 @@
+Bochs module:
+1. Bochs is an open-source IA-32 (x86) PC emulator that can run operating systems inside a virtualized environment. 
+It emulates CPU, memory, disks, display, and other hardware.
+
+2.The Bochs module usually refers to a kernel module or driver that provides enhanced support for Bochs features like:
+
+Mouse integration
+Graphics acceleration
+Debugging facilities

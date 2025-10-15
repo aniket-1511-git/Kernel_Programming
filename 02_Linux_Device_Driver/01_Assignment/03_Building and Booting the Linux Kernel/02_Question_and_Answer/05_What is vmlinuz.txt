@@ -1,0 +1,3 @@
+1. vmlinuz is the compressed Linux kernel image that GRUB loads to start the OS.
+
+

@@ -1,0 +1,7 @@
+A. Compile all sources  -->   b. make
+
+B. Install modules      -->   c. make modules_install
+
+C. Update boot files    -->   a. make install
+
+D. Show config menu     -->   d. make menuconfig

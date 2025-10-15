@@ -1,0 +1,8 @@
+Files in /boot/ related to the kernel:
+1. vmlinuz-* – Linux kernel image
+
+2. initrd.img-* – Temporary root filesystem with drivers
+
+3. config-* – Kernel build configuration
+
+4. System.map-* – Kernel symbol table

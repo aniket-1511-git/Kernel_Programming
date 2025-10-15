@@ -1,0 +1,3 @@
+1. Opens a menu-based configuration tool to select kernel options before building it.
+
+2. Lets you enable/disable drivers, features, and modules.
