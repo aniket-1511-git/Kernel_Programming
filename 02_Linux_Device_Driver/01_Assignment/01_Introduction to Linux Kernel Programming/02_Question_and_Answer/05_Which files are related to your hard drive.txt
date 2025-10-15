@@ -1,0 +1,9 @@
+1.Files related to hard drive:
+
+	a. For Disks --> 
+
+		/dev/sda, /dev/sdb 
+
+	b. For Disk Partitions -->
+
+		/dev/sda1, /dev/sdb1

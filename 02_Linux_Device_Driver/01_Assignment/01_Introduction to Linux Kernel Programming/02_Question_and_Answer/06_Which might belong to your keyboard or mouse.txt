@@ -1,0 +1,5 @@
+Files for keyboard or mouse are often found under:
+
+1. /dev/input/event*
+2. /dev/input/mice 
+3. /dev/input/mouse*
